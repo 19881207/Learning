@@ -1,0 +1,5 @@
+def add(x, d, n):
+    r = x
+    for i in range(n):
+        r += d
+    return r
